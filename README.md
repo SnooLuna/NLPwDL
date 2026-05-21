@@ -9,7 +9,7 @@
 - Unzip in terminal
 - Go to folder
 ## Make env
-- python3 -m venv $HOME/venvs/NLP_env
+- make env
 - module load Python/3.13.5-GCCcore-14.3.0
 - pip install -r requirement.txtls
 
