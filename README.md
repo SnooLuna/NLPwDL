@@ -14,7 +14,7 @@
 - pip install -r requirement.txtls
 
 ## Log in on Huggingface in terminal 
--huggingface-cli login
+- huggingface-cli login
 ## Get access to lama repo
 - Go to lama model hugginface repo
 - Close top should be a dropdown message, where you can ask for access
