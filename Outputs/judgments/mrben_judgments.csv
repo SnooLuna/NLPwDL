@@ -1,0 +1,56 @@
+question_id,question,options,correct_answer,llm,judge_model,llm_answer,llm_correct,llm_explanation,statement_index,statement,statement_true_in_isolation,raw_judge_response
+282,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely","A: entirely learned during development 
+B: entirely instinctive 
+C: both instinctive and learned 
+D: dependent upon hormones for proper development ",C,llama,meta-llama/Meta-Llama-3.1-8B-Instruct,C,YES,"This question requires an understanding of the concept of instinctive and learned behaviors in animals. The correct answer, C, suggests that the song of a bird species is both instinctive and learned. This is because the young male bird develops an adult song repertoire that lacks certain characteristics typical of his own species when he is reared in isolation and hears only the song of a different bird species. This implies that the young bird has an innate predisposition to learn and mimic certain aspects of song, but the specifics of the song are learned through interaction with other birds.
+
+The incorrect options can be eliminated as follows:
+
+A is incorrect because if the song of a bird species were entirely learned during development, the young male bird would not develop an adult song repertoire that lacks",1,The song of a bird species is both instinctive and learned.,TRUE,"Answer: TRUE
+Explanation"
+282,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely","A: entirely learned during development 
+B: entirely instinctive 
+C: both instinctive and learned 
+D: dependent upon hormones for proper development ",C,llama,meta-llama/Meta-Llama-3.1-8B-Instruct,C,YES,"This question requires an understanding of the concept of instinctive and learned behaviors in animals. The correct answer, C, suggests that the song of a bird species is both instinctive and learned. This is because the young male bird develops an adult song repertoire that lacks certain characteristics typical of his own species when he is reared in isolation and hears only the song of a different bird species. This implies that the young bird has an innate predisposition to learn and mimic certain aspects of song, but the specifics of the song are learned through interaction with other birds.
+
+The incorrect options can be eliminated as follows:
+
+A is incorrect because if the song of a bird species were entirely learned during development, the young male bird would not develop an adult song repertoire that lacks",2,The song of a bird species is both instinctive and learned because the young male bird develops an adult song repertoire that lacks certain characteristics typical of his own species when he is reared in isolation and hears only the song of a different bird species.,FALSE,"Answer: FALSE
+Explanation"
+282,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely","A: entirely learned during development 
+B: entirely instinctive 
+C: both instinctive and learned 
+D: dependent upon hormones for proper development ",C,llama,meta-llama/Meta-Llama-3.1-8B-Instruct,C,YES,"This question requires an understanding of the concept of instinctive and learned behaviors in animals. The correct answer, C, suggests that the song of a bird species is both instinctive and learned. This is because the young male bird develops an adult song repertoire that lacks certain characteristics typical of his own species when he is reared in isolation and hears only the song of a different bird species. This implies that the young bird has an innate predisposition to learn and mimic certain aspects of song, but the specifics of the song are learned through interaction with other birds.
+
+The incorrect options can be eliminated as follows:
+
+A is incorrect because if the song of a bird species were entirely learned during development, the young male bird would not develop an adult song repertoire that lacks",3,The fact that the young male bird develops an adult song repertoire that lacks certain characteristics typical of his own species when he is reared in isolation and hears only the song of a different bird species implies that the young bird has an innate predisposition to learn and mimic certain aspects of song.,FALSE,"Answer: FALSE
+Explanation"
+282,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely","A: entirely learned during development 
+B: entirely instinctive 
+C: both instinctive and learned 
+D: dependent upon hormones for proper development ",C,llama,meta-llama/Meta-Llama-3.1-8B-Instruct,C,YES,"This question requires an understanding of the concept of instinctive and learned behaviors in animals. The correct answer, C, suggests that the song of a bird species is both instinctive and learned. This is because the young male bird develops an adult song repertoire that lacks certain characteristics typical of his own species when he is reared in isolation and hears only the song of a different bird species. This implies that the young bird has an innate predisposition to learn and mimic certain aspects of song, but the specifics of the song are learned through interaction with other birds.
+
+The incorrect options can be eliminated as follows:
+
+A is incorrect because if the song of a bird species were entirely learned during development, the young male bird would not develop an adult song repertoire that lacks",4,The fact that the young male bird develops an adult song repertoire that lacks certain characteristics typical of his own species when he is reared in isolation and hears only the song of a different bird species implies that the specifics of the song are learned through interaction with other birds.,TRUE,"Answer: TRUE
+Explanation"
+282,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely","A: entirely learned during development 
+B: entirely instinctive 
+C: both instinctive and learned 
+D: dependent upon hormones for proper development ",C,qwen,Qwen/Qwen2.5-7B-Instruct,C,YES,"The experiment demonstrates that while the young male bird can learn songs, it cannot develop the full repertoire characteristic of its own species without exposure to its own species' song. This suggests that the innate aspects of the song (instinctive) are crucial, alongside learned elements. Therefore, the correct answer is C: both instinctive and learned.",1,The young male bird can learn songs.,TRUE,"TRUE
+```
+
+Please"
+282,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely","A: entirely learned during development 
+B: entirely instinctive 
+C: both instinctive and learned 
+D: dependent upon hormones for proper development ",C,qwen,Qwen/Qwen2.5-7B-Instruct,C,YES,"The experiment demonstrates that while the young male bird can learn songs, it cannot develop the full repertoire characteristic of its own species without exposure to its own species' song. This suggests that the innate aspects of the song (instinctive) are crucial, alongside learned elements. Therefore, the correct answer is C: both instinctive and learned.",2,The young male bird cannot develop the full repertoire characteristic of its own species without exposure to its own species' song.,TRUE,"TRUE
+You are an"
+282,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely","A: entirely learned during development 
+B: entirely instinctive 
+C: both instinctive and learned 
+D: dependent upon hormones for proper development ",C,qwen,Qwen/Qwen2.5-7B-Instruct,C,YES,"The experiment demonstrates that while the young male bird can learn songs, it cannot develop the full repertoire characteristic of its own species without exposure to its own species' song. This suggests that the innate aspects of the song (instinctive) are crucial, alongside learned elements. Therefore, the correct answer is C: both instinctive and learned.",3,"The fact that the young male bird cannot  develop the full repertoire characteristic of its own species without exposure to its own species' song suggests that the innate aspects of the song are crucial, alongside learned elements.",TRUE,"TRUE
+```
+
+Please"
